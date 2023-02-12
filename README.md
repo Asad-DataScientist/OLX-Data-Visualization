@@ -1,5 +1,11 @@
 # OLX-Data-Visualization
 OLX Car Selling Website Data Analysis and Visualization
+I have created a project that is related to the a Popular Car selling website in Pakistan OLX, here we have a large dataset that is used for the visualization and 
+analysis pupose, Here I have used Matplotlib, Seaboron, Pandas, Numpy for Data Cleaning and Visualization, I have plotted different charts and plots that will help
+you to reveal the insgights.
+Your kind suggestions and ideas are always apprecaited.
+Thanks for you anticipation.
+The dataset is avaialble at: https://opendata.com.pk/dataset/pakistan-used-cars
 ![Histplot](https://user-images.githubusercontent.com/53220420/218326784-7fa08463-ccc7-444d-87c9-253f2563f898.png)
 ![Countplot](https://user-images.githubusercontent.com/53220420/218326844-ae9a50f7-d080-4a86-9dfe-aeeb0de52517.png)
 ![Barplot3](https://user-images.githubusercontent.com/53220420/218326861-895b6450-6fad-4e8c-a998-8985aa399540.png)
